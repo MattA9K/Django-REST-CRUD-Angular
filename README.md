@@ -8,3 +8,7 @@
 A simple Djangon REST app with AngularJS integration. This is a starting point for a new app scaffold if you want to create an AngularJS web application with a Django-REST backend.
 
 Django backend contains a sample CRUD model to work off of.
+
+There is no CSS theme such as Bootstrap or Material Design in this repo. This is for developers who wish to add their own.
+
+##### BEST DEV ENVIRONMENT
