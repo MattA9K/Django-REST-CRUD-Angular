@@ -1,6 +1,10 @@
-# Django REST CRUD
+# Django REST CRUD with AngularJS integration
+
+### Built To Run On:
+#### Python 3
+#### Django 1.10
 
 
-A simple Djangon REST app scaffold to be used as a starting point for new Django REST projects.
+A simple Djangon REST app with AngularJS integration. This is a starting point for a new app scaffold if you want to create an AngularJS web application with a Django-REST backend.
 
-### requires Python 3
+Django backend contains a sample CRUD model to work off of.
