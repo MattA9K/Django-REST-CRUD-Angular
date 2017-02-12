@@ -12,3 +12,14 @@ Django backend contains a sample CRUD model to work off of.
 There is no CSS theme such as Bootstrap or Material Design in this repo. This is for developers who wish to add their own.
 
 ##### BEST DEV ENVIRONMENT
+
+This repo is inteded to work best with both WebStorm and PyCharm.
+
+##### Pycharm
+
+Open root repo folder as a project
+
+
+##### WebStorm
+
+Open /static/ as a project, and also open /static/index.html
